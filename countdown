@@ -1,0 +1,7 @@
+n=30
+while(true){
+  machine.say(n);
+  n=n-1;
+  if(n==0){break;}
+}
+  machine.say("Lift Off!")
